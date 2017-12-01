@@ -1,0 +1,22 @@
+{
+  "name": "testingApp",
+  "authors": [
+    "akhil <akhilmekkatt@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.6.6",
+    "karma-jasmine": "^1.1.0",
+    "karma": "^0.4.6"
+  }
+}
