@@ -1,0 +1,2 @@
+# testingApp
+`integrated jasmine karma`
